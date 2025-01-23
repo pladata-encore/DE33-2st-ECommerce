@@ -33,21 +33,22 @@
 <img src="https://github.com/user-attachments/assets/936ff6c7-8d4c-45a7-911d-b2d2e3e0ccef" width="800px">
 
 ## 🖥️수행결과
-- 데이터 전처리를 거쳐 RFM 분석을 수행하여 각 고객에게 점수를 부여하고, 이를 기반으로 고객 세그먼트를 분류
 <div align=left>
 	<img src="https://github.com/user-attachments/assets/fb098185-e314-413e-af2e-60422fd6c778" width="400px">
 	<img src="https://github.com/user-attachments/assets/3594f814-8d47-482a-83ff-d7b2849c0d5c" width="400px">
 </div>
+- 데이터 전처리를 거쳐 RFM 분석을 수행하여 각 고객에게 점수를 부여하고, 이를 기반으로 고객 세그먼트를 분류
 
- - BN/NBD 모델을 활용하여 고객의 rfm 데이터를 기반으로 가장 많은 거래가 예상되는 고객을 식별
 <div align=left>
 	<img src="https://github.com/user-attachments/assets/eb0b3f44-3c86-40f7-b809-e84297e6c4f1" width="400px">
 	<img src="https://github.com/user-attachments/assets/7e5f51ad-e1cf-40d4-82f4-9907f697049e" width="400px">
 </div>
+ 
 <div align=left>
 	<img src="https://github.com/user-attachments/assets/fff1a6bb-f9a2-4fa9-8df1-4e1629d88595" width="400px">
 	<img src="https://github.com/user-attachments/assets/5871f154-b750-402d-ae06-9e36a8f92854" width="400px">
 </div>
+- BN/NBD 모델을 활용하여 고객의 rfm 데이터를 기반으로 가장 많은 거래가 예상되는 고객을 식별
 
 #### 데이터 전처리
 - 이상치 및 결측치 처리
