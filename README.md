@@ -1,11 +1,12 @@
 # DE33-2nd-ECommerce
 
+## 🌱 팀원
+[😎오현옥](https://github.com/alonee9393)&nbsp;&nbsp;&nbsp;&nbsp;[🐬유미라](https://github.com/raramii)&nbsp;&nbsp;&nbsp;&nbsp;[🦄진현석](https://github.com/culown)&nbsp;&nbsp;&nbsp;&nbsp;[🎸최동현](https://github.com/dh823)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
-
-
-1. 프로젝트  개요:
+## 프로젝트  개요:
+---
     - 프로젝트의 주제 선택 동기
     - 주제 관련  도메인 소개
         - 어떤 문제를 해결 하려는지 설명
@@ -18,6 +19,16 @@
       
 1. 사용한 딥러닝/머신러닝 모델 설명
 	    - 사용한 모델의 구조, 기법 등에 대한 간단한 소개.
+
+   
+<p align="left">
+<a img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
 	 
 1. 모델 학습 결과:
 	 - 학습 과정 설명
