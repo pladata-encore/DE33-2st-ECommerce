@@ -7,8 +7,7 @@
 [🎸최동현](https://github.com/dh823)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 👨‍🏫 프로젝트  개요
-- Kaggle의 [CRM 데이터](https://www.kaggle.com/code/sercanyesiloz/crm-analytics/notebook)를 활용하여 BG/NRD 모델을 사용하여 고객 구매 횟수를 예측하고, Streamlit을 통해 시각화 진행
-- 데이터 전처리 및 RFM 분석을 바탕으로 예측 모델 구축
+- Kaggle의 [CRM 데이터](https://www.kaggle.com/code/sercanyesiloz/crm-analytics/notebook)를 바탕으로 BG/NRD 모델을 사용하여 고객 구매 횟수를 예측하고, Streamlit을 통해 시각화 진행
 - 완성된 애플리케이션은 Docker 이미지로 빌드
 
 ## 🔨 기술 스택
@@ -45,3 +44,5 @@
 </div>
 
 ### 설명
+#### 1. 데이터 전처리 방법
+  	 - 
