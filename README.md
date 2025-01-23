@@ -30,7 +30,7 @@
 <img src="https://github.com/user-attachments/assets/10ac0ae1-274e-453e-a433-8712a9f213e4" width="350px">
 
 ## ERD
-<img src="https://github.com/user-attachments/assets/936ff6c7-8d4c-45a7-911d-b2d2e3e0ccef" width="750px">
+<img src="https://github.com/user-attachments/assets/936ff6c7-8d4c-45a7-911d-b2d2e3e0ccef" width="800px">
 
 ## 🖥️수행결과
 <div align=left>
