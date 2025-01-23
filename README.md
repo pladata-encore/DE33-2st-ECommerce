@@ -23,15 +23,21 @@
 	    - 사용한 모델의 구조, 기법 등에 대한 간단한 소개.
 
 ## 🔨 기술 스택
-<p align="left">
-<a img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+#### 개발환경
+<div align=left>
+<img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+</div>
+
+#### DB
+<p align="left">
 <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
+## 시스템 아키텍처
 ![Image](https://github.com/user-attachments/assets/10ac0ae1-274e-453e-a433-8712a9f213e4)
 	 
 1. 모델 학습 결과:
