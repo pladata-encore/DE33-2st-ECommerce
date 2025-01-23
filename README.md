@@ -27,7 +27,7 @@
 <!-- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> -->
 
 ## 🔧 시스템 아키텍처
-<img src="https://github.com/user-attachments/assets/10ac0ae1-274e-453e-a433-8712a9f213e4" width=400px">
+<img src="https://github.com/user-attachments/assets/10ac0ae1-274e-453e-a433-8712a9f213e4" width="400px">
 
 ## ERD
 <img src="https://github.com/user-attachments/assets/936ff6c7-8d4c-45a7-911d-b2d2e3e0ccef" width="800px">
