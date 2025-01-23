@@ -29,6 +29,8 @@
 <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
+
+![Image](https://github.com/user-attachments/assets/10ac0ae1-274e-453e-a433-8712a9f213e4)
 	 
 1. 모델 학습 결과:
 	 - 학습 과정 설명
