@@ -49,6 +49,7 @@
 	<img src="https://github.com/user-attachments/assets/fff1a6bb-f9a2-4fa9-8df1-4e1629d88595" width="400px">
 	<img src="https://github.com/user-attachments/assets/5871f154-b750-402d-ae06-9e36a8f92854" width="400px">
 </div>
+
 - BN/NBD 모델을 활용하여 고객의 rfm 데이터를 기반으로 가장 많은 거래가 예상되는 고객을 식별
 
 #### 데이터 전처리
