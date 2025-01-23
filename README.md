@@ -23,7 +23,7 @@
 1. 사용한 딥러닝/머신러닝 모델 설명
 	    - 사용한 모델의 구조, 기법 등에 대한 간단한 소개.
 
-##🔨 기술 스택
+## 🔨 기술 스택
 ---
 <p align="left">
 <a img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
