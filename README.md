@@ -37,6 +37,7 @@
 	<img src="https://github.com/user-attachments/assets/fb098185-e314-413e-af2e-60422fd6c778" width="400px">
 	<img src="https://github.com/user-attachments/assets/3594f814-8d47-482a-83ff-d7b2849c0d5c" width="400px">
 </div>
+
 - 데이터 전처리를 거쳐 RFM 분석을 수행하여 각 고객에게 점수를 부여하고, 이를 기반으로 고객 세그먼트를 분류
 
 <div align=left>
